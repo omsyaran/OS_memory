@@ -1,0 +1,5 @@
+﻿  list.cpp
+  trial2.cpp
+  Generating Code...
+C:\Users\Thanish06\Desktop\trial8\list.cpp(486): warning C4715: 'list::listcheck': not all control paths return a value
+  trial2.vcxproj -> C:\Users\Thanish06\Desktop\trial8\Debug\trial2.exe
